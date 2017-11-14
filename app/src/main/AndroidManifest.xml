@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".BeerAdviceActivity" />
+        <activity android:name=".MyMessengerActivity" />
+        <activity android:name=".ReceiveMessageActivity" />
+        <activity android:name=".StopwatchActivity"></activity>
     </application>
 
 </manifest>

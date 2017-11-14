@@ -1,3 +1,40 @@
 <resources>
     <string name="app_name">AJKCourseP</string>
+    <string name="ajkcoursep_first_button">show me love &amp; happiness</string>
+    <string name="ajkcoursep_first_button2">hide love &amp; happiness</string>
+    <string name="ajkcoursep_counter">0</string>
+    <string-array name="ajkcoursep_choose_activity">
+        <item>Beer Advice</item>
+        <item>My Messenger</item>
+        <item>Stopwatch</item>
+    </string-array>
+    <string name="ajkcoursep_beer_advice">Go</string>
+    <!--Beer Advice Strings-->
+    <string name="beeradvice_find_beer">find beer</string>
+    <string name="beeradvice_brands">brands</string>
+    <string-array name="beeradvice_beer_colors">
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+    </string-array>
+    <!--Beer Advice Strings/-->
+
+    <!--My Messenger Strings-->
+    <string name="mymessenger_hint">enter a message</string>
+    <string name="mymessenger_send">send a message</string>
+    <string name="mymessenger_chooser">send via…</string>
+    <string name="mymessenger_message">your text</string>
+    <string-array name="mymessenger_sov">
+        <item>send</item>
+        <item>view</item>
+    </string-array>
+    <!--My Messenger Strings/-->
+
+    <!--Stopwatch Strings-->
+    <string name="stopwatch_start">Start</string>
+    <string name="stopwatch_stop">Stop</string>
+    <string name="stopwatch_reset">Reset</string>
+    <!--Stopwatch Strings/-->
+
 </resources>
